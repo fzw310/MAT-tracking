@@ -1,3 +1,6 @@
+"MAT: Multi-Anchor Visual Tracking with Selective Search Region"
+
+
 In this code, the base tracker (UDT[1]) is utilized for MAT_UDT. Before executing the 'demo_UDT_MAT.m' in '\source\tracker\UDT\demo', you need:
 
 1. Unzip the file 'source.7z' in this folder
