@@ -17,7 +17,7 @@ For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be
  of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 1308–1317
  
 [2] Y. Wu, J. Lim, and M. H. Yang, “Object tracking benchmark,” IEEE Transactions on Pattern Analysis
- & Machine Intelligence, vol. 37, no. 9, p. 1834, 2015.
+ & Machine Intelligence, vol. 37, no. 9, p. 1834–1848, 2015.
  
 [3] P. Liang, E. Blasch, and H. Ling, “Encoding color information for visual tracking: Algorithms and
  benchmark.” IEEE Transactions on Image Processing A Publication of the IEEE Signal Processing Society,
