@@ -10,7 +10,8 @@ For GPU: run vl_compilenn('enableGpu', true)
 
 3. Configure MatConvNet path and Anchor path in `tracking_env.m`
 
-4. For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be used. 
+
+For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be used. 
 
 [1] N. Wang, Y. Song, C. Ma, W. Zhou, W. Liu, and H. Li, “Unsupervised deep tracking,” in Proceedings
  of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 1308–1317
