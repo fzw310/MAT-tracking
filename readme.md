@@ -2,13 +2,15 @@ In this code, the base tracker (UDT[1]) is utilized for MAT_UDT. Before executin
 
 1. Unzip the file 'source.7z' in this folder
 
-2. Compile MatConvNet in '\source\tracker\UDT\matconvnet'
+2. Downloading MatConvNet in '\source\tracker\UDT'
+
+3. Compile MatConvNet in '\source\tracker\UDT\matconvnet'
 ```
 For CPU: run vl_compilenn 
 For GPU: run vl_compilenn('enableGpu', true)
 ```
 
-3. Configure MatConvNet path and Anchor path in `tracking_env.m`
+4. Configure MatConvNet path and Anchor path in `tracking_env.m`
 
 
 For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be used. 
@@ -26,3 +28,5 @@ For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be
 [4] M. Mueller, N. Smith, and B. Ghanem, “A benchmark and simulator for uav tracking,” in European 
  Conference on Computer Vision, 2016, pp. 445–461.
  
+ 
+If you use our codes, please cite our papers.
