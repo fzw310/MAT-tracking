@@ -1,14 +1,14 @@
-In this code, the base tracker (UDT[1]) is adopted for MAT_UDT. Before executing the 'demo_UDT_MAT.m'in "\source\tracker\UDT\demo", you need:
+In this code, the base tracker (UDT[1]) is utilized for MAT_UDT. Before executing the 'demo_UDT_MAT.m' in "\source\tracker\UDT\demo", you need:
 
 1. Unzip the file "source.7z" in this folder
 
-2. Compiling MatConvNet at "\source\tracker\UDT\matconvnet"
+2. Compile MatConvNet at "\source\tracker\UDT\matconvnet"
 ```
 For CPU: run vl_compilenn 
 For GPU: run vl_compilenn('enableGpu', true)
 ```
 
-3. Configure MatConvNet path and our Anchor path in `tracking_env.m`
+3. Configure MatConvNet path and Anchor path in `tracking_env.m`
 
 4. For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be used. 
 
