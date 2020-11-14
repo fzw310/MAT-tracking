@@ -34,5 +34,5 @@ For the OTB100[2], Temple Color[3] and UAV123[4] dataset, 'run_MAT_UDT.m' can be
  
 If you use our codes, please cite our papers "MAT: Multi-Anchor Visual Tracking with Selective Search Region".
 
-Thanks for the code of UDT[1], if you use MAT_UDT, please also cite UDT[1]:
+Thanks for the code of UDT[1]. If you use MAT_UDT, please also cite UDT[1]:
  
