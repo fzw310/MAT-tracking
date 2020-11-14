@@ -5,7 +5,6 @@ In this code, the base tracker (UDT[1]) is adopted for MAT_UDT. Before executing
 2. Compiling MatConvNet at "\source\tracker\UDT\matconvnet"
 ```
 For CPU: run vl_compilenn 
-```
 For GPU: run vl_compilenn('enableGpu', true)
 ```
 
