@@ -1,8 +1,8 @@
-In this code, the base tracker (UDT[1]) is utilized for MAT_UDT. Before executing the 'demo_UDT_MAT.m' in "\source\tracker\UDT\demo", you need:
+In this code, the base tracker (UDT[1]) is utilized for MAT_UDT. Before executing the 'demo_UDT_MAT.m' in '\source\tracker\UDT\demo', you need:
 
-1. Unzip the file "source.7z" in this folder
+1. Unzip the file 'source.7z' in this folder
 
-2. Compile MatConvNet at "\source\tracker\UDT\matconvnet"
+2. Compile MatConvNet in '\source\tracker\UDT\matconvnet'
 ```
 For CPU: run vl_compilenn 
 For GPU: run vl_compilenn('enableGpu', true)
